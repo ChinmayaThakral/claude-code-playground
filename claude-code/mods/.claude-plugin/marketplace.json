@@ -21,6 +21,11 @@
       "name": "token-weather",
       "source": "./token-weather",
       "description": "A live forecast of the context window, drawn above the prompt."
+    },
+    {
+      "name": "replay-theater-plus",
+      "source": "./replay-theater-plus",
+      "description": "Replay Theater extended: records shell changes as well as tool edits, keeps the last ten turns, and labels each step with the agent that made it."
     }
   ]
 }

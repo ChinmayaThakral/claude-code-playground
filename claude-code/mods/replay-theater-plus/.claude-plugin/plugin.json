@@ -1,0 +1,5 @@
+{
+  "name": "replay-theater-plus",
+  "version": "0.2.0",
+  "description": "Replay Theater, extended: steps through file edits one diff at a time, including changes made by shell commands, keeps the last ten turns, and labels each step with the agent that made it."
+}
